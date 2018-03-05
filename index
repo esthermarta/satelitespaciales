@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+
+<title> Satélites Espaciales </title> 
+
+<meta charset = 'utf-8'>
+
+<link rel="stylesheet" type="text/css" href="css/estilos.css">
+
+</head> 
+
+
+<body> 
+
+
+<h1 style = 'text-align:center;color:#b2ffe8'> Satélites Espaciales </h1>
+
+<p><img src="figuras/se.jpg" style="float:right;width:300px;height:250px"></p>
+
+
+<table border = "2" cellpadding = "20" bordercolor=#f7a713>
+
+<left>
+<td>
+      
+<h3>Índice</h3>
+      
+<ul>
+	
+	<li><a href='html/que_son.html'> ¿Qué son? </a></li>
+	
+<br>
+	
+	<li><a href='html/utilidad.html'> Utilidad </a></li>
+	
+<br>
+	
+	<li><a href='html/historia.html'> Historia </a></li>
+	
+<br>
+	
+	<li><a href='html/nasa.html'> NASA </a></li>
+ 
+	
+<br>
+	
+	<li><a href='html/importancia.html'> Importancia </a></li>
+	
+<br>
+	
+	<li><a href='html/ejemplos.html'> Algunos ejemplos </a></li>
+      
+</ul>
+
+</td>
+
+</table></left>
+
+<p>Página web de Esther y Marta creada con github, en la cual hablamos sobre los satélites de exploracion espacial. De ellos 
+os explicmos lo que son, la utlidad que tienen para nosotros, la historia de su creación, os hablamos de una agencia espacial 
+(NASA), de la importancia que tienen hoy en díay s damos algunos ejemplos. </p>
+</body> 
+
+
+</html>
