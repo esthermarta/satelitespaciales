@@ -1,0 +1,19 @@
+/* La suiguinte hoja de estilo define una imagen (google.jpg) de fondo que se encuentra en una carpeta superio llamada "css". Además formatea los colores de los encabezaos h1 y h4, 
+como de todos los párrafos*/
+
+body {
+background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.5) 100%),url(../figuras/images.jpg);
+background-size:cover;
+} 
+
+h3 {color:#f7a713;}
+
+h4 {color:blue;}
+
+p {color:white; font-size:12pt; font-family:"Verdana",sans-serif;}
+
+
+table.center { 	
+	margin-left:auto;
+	margin-right:auto;
+}   
